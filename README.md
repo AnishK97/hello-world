@@ -1,3 +1,3 @@
 # hello-world
-My first git repository
-Hi i am Anish
+My first git reposi
+Hi i am Anish 
